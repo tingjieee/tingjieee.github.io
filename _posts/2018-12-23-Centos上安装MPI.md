@@ -11,7 +11,7 @@ tags:
 ---
 
 
-##安装（centos 7.2）
+## 安装（centos 7.2）
 - yum list mpich*，查看MPI可安装的版本，我是直接全部安装
 - sudo yum install -y mpich*
 - 由于安装之后找不到命令，所以需要设置环境变量
