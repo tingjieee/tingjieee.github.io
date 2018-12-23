@@ -4,7 +4,7 @@ title:      在Centos上安装MPI
 subtitle:   #1
 date:       2018-12-23
 author:     tingjieee
-header-img: img/post-bg-parallel.jgp
+header-img: img/post-bg-parallel.jpg
 catalog: true
 tags:
     - parallel
